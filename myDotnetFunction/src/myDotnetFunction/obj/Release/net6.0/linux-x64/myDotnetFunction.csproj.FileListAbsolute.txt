@@ -1,0 +1,17 @@
+C:\Users\William\Desktop\SCHOOL\Fall 2023\Networks\Lambda\esep-webhooks\myDotnetFunction\src\myDotnetFunction\bin\Release\net6.0\linux-x64\myDotnetFunction.deps.json
+C:\Users\William\Desktop\SCHOOL\Fall 2023\Networks\Lambda\esep-webhooks\myDotnetFunction\src\myDotnetFunction\bin\Release\net6.0\linux-x64\myDotnetFunction.runtimeconfig.json
+C:\Users\William\Desktop\SCHOOL\Fall 2023\Networks\Lambda\esep-webhooks\myDotnetFunction\src\myDotnetFunction\bin\Release\net6.0\linux-x64\myDotnetFunction.dll
+C:\Users\William\Desktop\SCHOOL\Fall 2023\Networks\Lambda\esep-webhooks\myDotnetFunction\src\myDotnetFunction\bin\Release\net6.0\linux-x64\myDotnetFunction.pdb
+C:\Users\William\Desktop\SCHOOL\Fall 2023\Networks\Lambda\esep-webhooks\myDotnetFunction\src\myDotnetFunction\bin\Release\net6.0\linux-x64\Amazon.Lambda.Core.dll
+C:\Users\William\Desktop\SCHOOL\Fall 2023\Networks\Lambda\esep-webhooks\myDotnetFunction\src\myDotnetFunction\bin\Release\net6.0\linux-x64\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\William\Desktop\SCHOOL\Fall 2023\Networks\Lambda\esep-webhooks\myDotnetFunction\src\myDotnetFunction\obj\Release\net6.0\linux-x64\myDotnetFunction.csproj.AssemblyReference.cache
+C:\Users\William\Desktop\SCHOOL\Fall 2023\Networks\Lambda\esep-webhooks\myDotnetFunction\src\myDotnetFunction\obj\Release\net6.0\linux-x64\myDotnetFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\William\Desktop\SCHOOL\Fall 2023\Networks\Lambda\esep-webhooks\myDotnetFunction\src\myDotnetFunction\obj\Release\net6.0\linux-x64\myDotnetFunction.AssemblyInfoInputs.cache
+C:\Users\William\Desktop\SCHOOL\Fall 2023\Networks\Lambda\esep-webhooks\myDotnetFunction\src\myDotnetFunction\obj\Release\net6.0\linux-x64\myDotnetFunction.AssemblyInfo.cs
+C:\Users\William\Desktop\SCHOOL\Fall 2023\Networks\Lambda\esep-webhooks\myDotnetFunction\src\myDotnetFunction\obj\Release\net6.0\linux-x64\myDotnetFunction.csproj.CoreCompileInputs.cache
+C:\Users\William\Desktop\SCHOOL\Fall 2023\Networks\Lambda\esep-webhooks\myDotnetFunction\src\myDotnetFunction\obj\Release\net6.0\linux-x64\myDotnetFunction.csproj.CopyComplete
+C:\Users\William\Desktop\SCHOOL\Fall 2023\Networks\Lambda\esep-webhooks\myDotnetFunction\src\myDotnetFunction\obj\Release\net6.0\linux-x64\myDotnetFunction.dll
+C:\Users\William\Desktop\SCHOOL\Fall 2023\Networks\Lambda\esep-webhooks\myDotnetFunction\src\myDotnetFunction\obj\Release\net6.0\linux-x64\refint\myDotnetFunction.dll
+C:\Users\William\Desktop\SCHOOL\Fall 2023\Networks\Lambda\esep-webhooks\myDotnetFunction\src\myDotnetFunction\obj\Release\net6.0\linux-x64\myDotnetFunction.pdb
+C:\Users\William\Desktop\SCHOOL\Fall 2023\Networks\Lambda\esep-webhooks\myDotnetFunction\src\myDotnetFunction\obj\Release\net6.0\linux-x64\myDotnetFunction.genruntimeconfig.cache
+C:\Users\William\Desktop\SCHOOL\Fall 2023\Networks\Lambda\esep-webhooks\myDotnetFunction\src\myDotnetFunction\obj\Release\net6.0\linux-x64\ref\myDotnetFunction.dll
